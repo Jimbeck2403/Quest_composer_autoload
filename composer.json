@@ -1,0 +1,11 @@
+{
+    "name": "jimmy.boucaud/quest_composer_autoload",
+    "description": "quest_composer_autoload",
+    "authors": [
+        {
+            "name": "jimmy.boucaud",
+            "email": "jimmy.boucaud@gmail.com"
+        }
+    ],
+    "require": {}
+}
